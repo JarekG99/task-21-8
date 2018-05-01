@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/JarekG99/task-21-8/issues"
   },
-  "homepage": "https://github.com/JarekG99/task-21-8#readme"
+  "homepage": "https://github.com/JarekG99/task-21-8#readme",
+  "dependencies": {
+    "mongodb": "^3.0.7"
+  }
 }
