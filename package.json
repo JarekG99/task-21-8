@@ -1,0 +1,20 @@
+{
+  "name": "task-21-8",
+  "version": "1.0.0",
+  "description": "MongoDB",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JarekG99/task-21-8.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JarekG99/task-21-8/issues"
+  },
+  "homepage": "https://github.com/JarekG99/task-21-8#readme"
+}
